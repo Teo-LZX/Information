@@ -1,0 +1,48 @@
+{
+  "C_Cpp_Runner.cCompilerPath": "/usr/bin/gcc",
+  "C_Cpp_Runner.cppCompilerPath": "/usr/bin/g++",
+  "C_Cpp_Runner.debuggerPath": "/usr/bin/gdb",
+  "C_Cpp_Runner.cStandard": "",
+  "C_Cpp_Runner.cppStandard": "",
+  "C_Cpp_Runner.msvcBatchPath": "",
+  "C_Cpp_Runner.warnings": [
+    "-Wall",
+    "-Wextra",
+    "-Wpedantic"
+  ],
+  "C_Cpp_Runner.enableWarnings": true,
+  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.compilerArgs": [],
+  "C_Cpp_Runner.linkerArgs": [],
+  "C_Cpp_Runner.includePaths": [],
+  "C_Cpp_Runner.includeSearch": [
+    "*",
+    "**/*"
+  ],
+  "C_Cpp_Runner.excludeSearch": [
+    "**/build",
+    "**/build/**",
+    "**/.*",
+    "**/.*/**",
+    "**/.vscode",
+    "**/.vscode/**"
+  ],
+  "files.associations": {
+    "iomanip": "cpp",
+    "iostream": "cpp",
+    "vector": "cpp",
+    "string": "cpp",
+    "thread": "cpp",
+    "condition_variable": "cpp",
+    "ostream": "cpp",
+    "cmath": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled",
+  "python.analysis.extraPaths": [
+    "./python/product2/venv",
+    "./python/product2/func",
+    "./python/words/venv",
+    "./python/manager/venv",
+    "./python/manager/func"
+  ]
+}
