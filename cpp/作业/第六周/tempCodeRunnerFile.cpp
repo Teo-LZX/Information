@@ -1,3 +1,0 @@
-SimpleCircle(){
-        //     itsRadius = new float;
-        // }
